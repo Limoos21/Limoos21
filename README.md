@@ -11,7 +11,7 @@
 ## Tools
 ![image](https://github.com/Limoos21/Limoos21/assets/89832541/12941d01-708b-4353-8238-a884c1c50bb5) ![image](https://github.com/Limoos21/Limoos21/assets/89832541/ac66e721-741e-4cde-8db7-abb82df46bb9) ![image](https://github.com/Limoos21/Limoos21/assets/89832541/cd9d540d-bb92-4e77-995f-1530035c81c7) ![image](https://github.com/Limoos21/Limoos21/assets/89832541/34a87e54-17ba-47bd-bf29-cba2d76b9c9b) 
 ## LeetCode Stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=limoos21)](https://github.com/KnlnKS/leetcode-stats)
+[![<USERNAME>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=limoos21limoos21&theme=<THEME>)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 
