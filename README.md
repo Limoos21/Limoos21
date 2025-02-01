@@ -10,11 +10,12 @@
 
 ## Tools
 ![image](https://github.com/Limoos21/Limoos21/assets/89832541/12941d01-708b-4353-8238-a884c1c50bb5) ![image](https://github.com/Limoos21/Limoos21/assets/89832541/ac66e721-741e-4cde-8db7-abb82df46bb9) ![image](https://github.com/Limoos21/Limoos21/assets/89832541/cd9d540d-bb92-4e77-995f-1530035c81c7) ![image](https://github.com/Limoos21/Limoos21/assets/89832541/34a87e54-17ba-47bd-bf29-cba2d76b9c9b) 
+## LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=твой_username_на_leetcode&theme=dark)
 
 
 
-
-![Пример GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE4ajFsZ3pxaDhkN3FhdHh4dzk1ZGNkOTk2dWp2Nzg3ZGRzeGowNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE4ajFsZ3pxaDhkN3FhdHh4dzk1ZGNkOTk2dWp2Nzg3ZGRzeGowNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
 
 
